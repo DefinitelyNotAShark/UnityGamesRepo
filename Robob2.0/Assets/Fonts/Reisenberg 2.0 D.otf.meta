@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c861c5703c32120449e3328649017b44
+timeCreated: 1535921231
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reisenberg 2.0
+  fontNames:
+  - Reisenberg 2.0
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
